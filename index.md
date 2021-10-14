@@ -246,9 +246,9 @@
 }
 
 .ubication {
+  width: 80%;
   padding-top: 5rem;
   padding-bottom: 2rem;
-  background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
