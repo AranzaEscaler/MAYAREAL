@@ -12,6 +12,7 @@ body {
 .navbar {
   background-color: #212529;
   padding: 1rem;
+  background-size: cover;
 }
 
 .property__img {
