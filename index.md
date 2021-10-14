@@ -236,6 +236,7 @@
 
 .navbar {
   background-color: #212529;
+  background-size: cover;
   padding: 1rem;
 }
 
@@ -247,6 +248,7 @@
 .ubication {
   padding-top: 5rem;
   padding-bottom: 2rem;
+  background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
